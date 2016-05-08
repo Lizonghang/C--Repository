@@ -1,1 +1,1 @@
-通信网理论基础项目作业
+随机有向连通图生成，经典Dijkstra算法，单源单宿Dijkstra算法、最大通过率Dijkstra算法、带宽限制Dijkstra算法，双向Dijkstra算法
